@@ -1,2 +1,2 @@
 # Data-Science-Capstone
-Repository for the Coursera Data Science Capstone Course
+I have created this repository for the Coursera Data Science Capstone Course.
